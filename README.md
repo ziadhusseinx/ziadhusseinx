@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ziad</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="Coding" width="400" src="ziad.gif">
+
 
 - 👨‍💻 All of my projects are available at [ziad.great-site.net](ziad.great-site.net)
 
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://github.com/ziadhusseinx](https://github.com/ziadhusseinx)
 
 - ⚡ Fun fact **i love my work**
+<img align="right" alt="Coding" width="400" src="ziad.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

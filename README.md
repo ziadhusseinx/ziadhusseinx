@@ -47,4 +47,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/ziadhussein"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/ziadhussein" /></a></p><br><br>
+<img src="https://raw.githubusercontent.com/ziadhusseinx/ziadhusseinx/output/snake.svg" alt="Snake animation" />
+
+###
 

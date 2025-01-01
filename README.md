@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-<img align="right" alt="Coding" width="400" src="ziad.gif">
+
 
 
 <h1 align="center">Hi 👋, I'm Ziad</h1>
+<img align="right" alt="Coding" width="400" src="ziad.gif">
 <h3 align="center">A passionate fullstack developer</h3>
 
 

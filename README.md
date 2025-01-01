@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" alt="Coding" width="400" src="ziad.gif">
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://github.com/ziadhusseinx](https://github.com/ziadhusseinx)
 
 - ⚡ Fun fact **i love my work**
-<img align="right" alt="Coding" width="400" src="ziad.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

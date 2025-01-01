@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Coding" width="400" src="ziad.gif">
+
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img align="right" alt="Coding" width="400" src="ziad.gif">
 
 
 <h1 align="center">Hi 👋, I'm Ziad</h1>

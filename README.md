@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [ziad.great-site.net](ziad.great-site.net)
+- 👨‍💻 All of my projects are available at [ziad.great-site.net](www.ziad.great-site.net)
 
 - 💬 Ask me about **python , js and c++**
 
